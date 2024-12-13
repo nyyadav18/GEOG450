@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """Copy of Yelp_API Crawler_Yifan.ipynb
 
+By Yifan Shen
+
 ### My explanation: 
 - output is a list or a table
 - basic API crawling with simple data output (Pandas df or CSV)
