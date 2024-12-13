@@ -1,0 +1,104 @@
+Nikita Yadav
+
+A Geographical Case Study of Seattle
+
+There is a lot more to the discipline of Geography than just maps. A person who studies
+Geography aims to understand and represent human - space relations and the subject of study can
+vary in terms of geographical scale, as well as the lens through which the subject is dissected and
+studied. In this class, we were tasked with observing human life in Seattle and developing a
+context for the city as a place that influences and is influenced by the people living in it. Through
+the ten weeks of the quarter, we worked through a set of projects, each of which investigated a
+different theme in relation to the city.
+Seattle’s reputation for gray skies, closed-off people, and ‘the long dark’ precedes it and
+as an out of state student that moved here five years ago, I feared that my experiences in college
+would be limited by the classic stereotypes. Time has changed my perception of the city and
+personal experiences have opened me up to other sides of Seattle that don’t necessarily fall in
+line with what I originally expected. My perspective is certainly shaped by the environment I’m
+in and being a college student living in a college town means that my understanding of Seattle
+isn’t completely objective and could be controlled for certain variables in order to make the
+projects a bit more scientific and relevant to a larger demographic. The observations I made
+during the course of this class represent Seattle through my eyes.
+Seattle is home to the largest state ferry system and living in the city, one can see the
+ways the various bodies of water affect human life. Solid bridge infrastructure is essential and
+certain places are inaccessible, or significantly more difficult to get to, without a ferry. How
+people move through a place is an important aspect to explore and of the various types of
+transportation in Seattle the ferries are the most unique! Serving several different islands, the
+ferry system is a part of many peoples commutes, and for those that must cross water to get to
+work, a reliable time schedule and consistently staffed ferries are a priority. Unfortunately, the
+ferry system has been in trouble for a while now and the pandemic exacerbated the issues. A lack
+of funding and worsening shortages in staff and vessels have left residents feeling that the system
+is “broken”, without much hope for sufficient financial relief from the state.
+The city is divided into several, distinct neighborhoods, each one has a different feel from
+the next. There are the older, more historic areas, such as Pioneer Square and Georgetown, and
+then other areas such as South Lake Union and Downtown that are equally as old, but developing
+quickly due to the influx of large tech companies. For the project on neighborhood
+characteristics, my partner and I explored Georgetown. A neighborhood with a lot of preserved
+character, Georgetown was fun to walk through and offered a lot of novel attractions. Its
+reputation for being a transportation hub was well represented in the art around town and the
+regular low flying planes passing overhead. The neighborhood seemed to draw a younger crowd
+into the coffee shops and breweries and its residential streets contained homes in various states of
+disrepair, with quite a few well-maintained and historic looking.
+
+The third aspect of Seattle we explored was the colors of the city. We wanted to answer
+the question “what color is Seattle?” My group chose to investigate the UW student population
+and through a series of pictures we examined their outerwear and backpack color choices. We
+developed the hypothesis that we’d see a lot of blacks and grays, especially once we looked
+around at each other and saw that we were all wearing black. The infographic we ended up with
+almost aligned with that theory, but we suspect that the near monochrome coloring was due to
+camera quality issues.
+For the final project, we aimed to look at where people consider their “happy places” to
+be. The database we worked with contained data points created by fellow classmates and the
+stories within them made it apparent that they were written by students. I looked through the
+locations with the intention of distinguishing indoor places from outdoor places. My theory was
+that there would be a higher number of outdoor locations, considering that we are all students
+and spend a lot of time indoors as well as the typical Seattleite affinity for the outdoors.
+Surprisingly, outdoor happy places only beat indoor happy places by a little, and many students
+claimed libraries and cafes as happy locations because they found them to be pleasant places to
+study.
+Managing my time and working through a project from beginning to end with a good
+amount of creative freedom was a bit of a challenge at first. Picking a topic and deciding how to
+collect the data for it posed the first challenge. Once I had a project or two under my belt I began
+to have more fun with it though. The planning stage was the most important and that became
+clearer the further along I got in the class. It became apparent that a thoroughly thought out work
+plan made the rest of the process smoother and allowed us to get things done in a timely manner.
+Working with data was sometimes difficult when it wasn’t too clear where we could acquire
+specific datasets, but once we found them, cleaning basic text or number data was fairly simple.
+Working with image data was new and took some time to get used to though. Making the
+infographics was the most fun and the instructional walkthroughs made it easy to learn how to
+make all the different kinds of charts. The part of the projects I had the most trouble with was the
+story telling. I had some trouble coming up with an interesting narrative surrounding a few of the
+charts, because a lot of them were self-explanatory and presented the phenomena upfront. I do
+understand the importance of context with data though and writing the stories helped reinforce
+that idea.
+Going forward, I think an interesting project to take on could be an investigation into
+Seattle driving habits, specifically car accidents and traffic incidents. As with any major city,
+Seattle tends to have a ton of traffic, but it seems to me that car accidents are notably frequent
+and drivers can sometimes be rather aggressive or completely timid and they just overall practice
+some pretty unsafe driving. I would like to see if the numbers line up with my theory.
+
+This class gave me the opportunity to explore new ways of thinking and visualizing real
+data. I got to practice technical skills like coding in Python and making maps with QGIS, while
+also exercising my critical thinking, problem-solving, teamwork, and time management skills. I
+developed a better understanding of the city of Seattle, as well as how I live in it, and it has
+opened my eyes to the variety of methods one can use to both understand human spatial
+relationships and share those discoveries with others.
+
+Works Cited
+"Brief History of Seattle." Seattle Municipal Archives,
+https://www.seattle.gov/cityarchives/seattle-facts/brief-history-of-seattle.
+Grambush, Jacklyn. "11 Stereotypes Seattleites Won't Even Try to Deny." Culture Trip,
+https://theculturetrip.com/north-america/usa/washington/articles/11-stereotypes-seattleite
+s-wont-even-try-to-deny.
+Matson, Andrews. "How Seattle Became the Future of Men's Fashion." Esquire,
+https://www.esquire.com/style/mens-fashion/a41319302/seattle-fashion-history/.
+McNichols, Joshua. "Bainbridge Island residents show new optimism to revive Washington
+ferries." KUOW,
+
+https://www.kuow.org/stories/bainbridge-island-residents-show-new-optimism-to-revive-
+washington-ferries.
+
+"WA’s ferry system is broken, and Gov. Inslee must right the ship." The Seattle Times,
+https://www.seattletimes.com/opinion/editorials/was-ferry-system-is-broken-and-gov-insl
+ee-must-right-the-ship/.
+Wilma, David. "Ferry Service Begins on Puget Sound on July 1, 1951." HistoryLink.org,
+https://www.historylink.org/File/2975.
