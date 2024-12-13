@@ -33,6 +33,15 @@ One advanced technique to bypass the anti-cralwer tech "IP block" is "IP pool", 
 by Yifan
 """
 
+"""
+My explanation:
+Yelp Data Fetcher and JSON Formatter
+- use when specific visualization requires nested data
+- organizes the data into a hierarchal structure
+- works with cleaned CSV inputs
+- focus is on data transformation
+"""
+
 #Read the following source code to learn basic skills of developing a web crawler
 
 #pip install lxml requests json pandas
